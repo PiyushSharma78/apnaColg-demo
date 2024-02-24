@@ -1,4 +1,4 @@
 # apnaColg-demo
 my first demo repository.
 <br>
-Author-Piyush
+Author-Piyush Sharma
